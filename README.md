@@ -1,3 +1,6 @@
+
+[![Build Status](https://travis-ci.com/ab-passos/myshop.svg?branch=master)](https://travis-ci.com/ab-passos/myshop)
+
 # myshop
 
 Barber shop
