@@ -5,5 +5,5 @@ main() {
 }
 
 class MyApp extends StatelessWidget {
-  build(_) => new Text('Hello, World!');
+  build(_) => new Text('Hello, World!', textDirection: TextDirection.ltr);
 }
